@@ -83,15 +83,12 @@ My responsibilities covered engineering drawing development, design review, mate
 
 ### Hull Structure
 
-![Hull Structure](./06_Gallery/hull-structure.jpg)
+![Hull Structure](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/CONSTRUCT%202.PNG?raw=true)
 
 ### Outfitting
 
-![Outfitting](./06_Gallery/outfitting.jpg)
+![Outfitting](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/wich.PNG?raw=true)
 
-### Fabrication
-
-![Fabrication](./06_Gallery/fabrication.jpg)
 
 ---
 
