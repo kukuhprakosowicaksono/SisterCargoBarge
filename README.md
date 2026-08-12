@@ -134,3 +134,5 @@ This project provided practical experience in integrating **engineering design w
 > This portfolio presents selected engineering work for professional demonstration purposes only. Confidential, proprietary, client-specific, and commercially sensitive information has been removed, modified, or simplified where necessary.
 
 ---
+
+👉 [View All Projects on GitHub](https://github.com/kukuhprakosowicaksono?tab=repositories)
