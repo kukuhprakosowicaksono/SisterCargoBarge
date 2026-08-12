@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b77afe35-ea82-4ea9-b3f2-0a4166b6fc15" width="625">
+  <img src="https://github.com/kukuhprakosowicaksono/SisterCargoBarge/blob/My-Project/Image/001.jpg?raw=true" width="625">
 </p>
 
 ---
@@ -83,11 +83,11 @@ My responsibilities covered engineering drawing development, design review, mate
 
 ### Hull Structure
 
-![Hull Structure](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/CONSTRUCT%202.PNG?raw=true)
+![Hull Structure](https://github.com/kukuhprakosowicaksono/SisterCargoBarge/blob/My-Project/Image/002.PNG?raw=true)
 
 ### Outfitting
 
-![Outfitting](https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/OUTFITTING/wich.PNG?raw=true)
+![Outfitting](https://github.com/kukuhprakosowicaksono/SisterCargoBarge/blob/My-Project/Image/003.PNG?raw=true)
 
 
 ---
